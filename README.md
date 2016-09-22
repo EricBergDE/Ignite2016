@@ -19,6 +19,8 @@ Here you can find the related resources: [THR3041] (THR3041/)
 Here is the link to myignite: [Find out how to implement Azure Backup into your datacenter strategies] (https://myignite.microsoft.com/sessions/20650)  
 Here you can find the related resources: [THR3045] (THR3045/)  
 
+## Keep contact
+
 Feel free to get in contact:  
 Blog: [www.ericberg.de] (http://www.ericberg.de)  
 Twitter: [@ericberg_de] (https://twitter.com/ericberg_de)  
