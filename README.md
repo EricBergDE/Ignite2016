@@ -1,5 +1,5 @@
-# Ignite2016
-All stuff from Ignite 2016
+# Ignite 2016 Atlanta
+All stuff from Ignite 2016 for you
 
 ## BRK3340 - Use server-based personal desktops in Server 2016
 Here is the link to myignite: [Use server-based personal desktops in Server 2016 ] (https://myignite.microsoft.com/sessions/20542)  

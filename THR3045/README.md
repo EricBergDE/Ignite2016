@@ -1,2 +1,2 @@
-# Ignite2016
-All stuff from Ignite 2016
+# THR3045 - Find out how to implement Azure Backup into your datacenter strategies
+Here is the link to myignite: [Find out how to implement Azure Backup into your datacenter strategies] (https://myignite.microsoft.com/sessions/20650)  
