@@ -12,8 +12,7 @@ Here is the link to the demo: [Use the File Classification Infrastructure in Win
 Here you can find the related resources: [THR3033] (THR3033/)  
 
 ## THR3041 - Hold my beer while i migrate your datacenter to Azure
-Here is the link to myignite: [Hold my beer while I migrate your datacenter to Azure] (https://myignite.microsoft.com/sessions/20578) 
-Here is the link to the demo: [Hold my beer while I migrate your datacenter to Azure - Demo] (https://youtu.be/PgLXqMz1JAY)  
+Here is the link to myignite: [Hold my beer while I migrate your datacenter to Azure] (https://myignite.microsoft.com/sessions/20578)   Here is the link to the demo: [Hold my beer while I migrate your datacenter to Azure - Demo] (https://youtu.be/PgLXqMz1JAY)  
 Here you can find the related resources: [THR3041] (THR3041/)  
 
 ## THR3045 - Find out how to implement Azure Backup into your datacenter strategies
