@@ -22,5 +22,5 @@ Here you can find the related resources: [THR3045] (THR3045/)
 Feel free to get in contact:  
 Blog: [www.ericberg.de] (http://www.ericberg.de)  
 Twitter: [@ericberg_de] (https://twitter.com/ericberg_de)  
-LinkedIn: [Eric Berg] (https://de.linkedin.com/in/ericbergde)  
-Xing: [Eric Berg] (hhttps://www.xing.com/profile/Eric_Berg2)  
+LinkedIn: [Eric Berg] (https://de.linkedin.com/in/ericbergde)  
+Xing: [Eric Berg] (https://www.xing.com/profile/Eric_Berg2)  
