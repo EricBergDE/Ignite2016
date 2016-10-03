@@ -3,7 +3,7 @@ All stuff from Ignite 2016 for you
 
 ## BRK3340 - Use server-based personal desktops in Server 2016
 MyIgnite: [Use server-based personal desktops in Server 2016 ] (https://myignite.microsoft.com/sessions/20542)  
-Demo: [Use server-based personal desktops in Server 2016 - Demo] (https://youtu.be/oKGOPwYjTwk) 
+Demo: [Use server-based personal desktops in Server 2016 - Demo] (https://youtu.be/oKGOPwYjTwk)  
 Slides: [Use server-based personal desktops in Server 2016 - Slides] (https://techcommunity.microsoft.com/t5/Microsoft-Ignite-Content/BRK3340-Use-server-based-personal-desktops-in-Server-2016/m-p/10955#M906)  
 Recording: [Use server-based personal desktops in Server 2016 - Recording] (https://youtu.be/S5-bibNArIQ)  
 Here you can find the related resources: [BRK3340] (BRK3340/)  
@@ -15,7 +15,8 @@ Slides: [Use the File Classification Infrastructure in Windows Server 2016 - Sli
 Here you can find the related resources: [THR3033] (THR3033/)  
 
 ## THR3041 - Hold my beer while i migrate your datacenter to Azure
-MyIgnite: [Hold my beer while I migrate your datacenter to Azure] (https://myignite.microsoft.com/sessions/20578)   Here is the link to Demo: [Hold my beer while I migrate your datacenter to Azure - Demo] (https://youtu.be/PgLXqMz1JAY)  
+MyIgnite: [Hold my beer while I migrate your datacenter to Azure] (https://myignite.microsoft.com/sessions/20578)  
+Demo: [Hold my beer while I migrate your datacenter to Azure - Demo] (https://youtu.be/PgLXqMz1JAY)  
 Slides: [Hold my beer while I migrate your datacenter to Azure - Slides] (https://techcommunity.microsoft.com/t5/Microsoft-Ignite-Content/THR3041-Hold-my-beer-while-I-migrate-your-datacenter-to-Azure/m-p/10963#M913)  
 Here you can find the related resources: [THR3041] (THR3041/)  
 
